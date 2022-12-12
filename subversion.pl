@@ -52,7 +52,7 @@ use JSON;
 # Customizable vars. Set these to the information for your team
 #
 
-my $opt_domain = "foo.slack.com"; # Your team's domain
+my $opt_domain = "foo.slack.co"; # Your team's domain
 my $opt_token = ""; # The token from your SVN services page
 
 
